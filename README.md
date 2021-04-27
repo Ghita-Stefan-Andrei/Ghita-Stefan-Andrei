@@ -1,6 +1,6 @@
  <h1>Hi, I’m @Ghita-Stefan-Andrei</h1>
  <p>I’m interested in programming</p>
- <p>I’m currently learning electronical engineering</p>
+ <p>I’m currently learning electrical engineering</p>
  <p>Personal Blog: <a href="https://ghitastefanandrei.000webhostapp.com/">Ghita Stefan-Andrei</a></p>
 
 <!---
