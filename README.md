@@ -1,10 +1,7 @@
- Hi, I’m @Ghita-Stefan-Andrei
- I’m interested in programming
- I’m currently learning electronical engineering
- How to reach me 
-        Mail: stefst_stef@yahoo.com
-              stefst_stefblizz@yahoo.com
-              stefan_andrei.ghita@stud.etti.pub.ro
+ <h1>Hi, I’m @Ghita-Stefan-Andrei</h1>
+ <p>I’m interested in programming</p>
+ <p>I’m currently learning electronical engineering</p>
+ <p>Personal Blog: <a href="https://ghitastefanandrei.000webhostapp.com/">Ghita Stefan-Andrei</a></p>
 
 <!---
 Ghita-Stefan-Andrei/Ghita-Stefan-Andrei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
